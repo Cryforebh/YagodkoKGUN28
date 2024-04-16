@@ -2316,11 +2316,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 8296172669418481397}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b3e21422e254466810369536a65b19b, type: 3}
+  m_Script: {fileID: 11500000, guid: 6213543e868e4a008eaa9de7f85ad61e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _accelerationPower: 1
-  _fireDelaySec: 1
+  _rotateSpeed: 1
 --- !u!33 &8849521607490798926
 MeshFilter:
   m_ObjectHideFlags: 0
