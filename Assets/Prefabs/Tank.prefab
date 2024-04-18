@@ -288,10 +288,10 @@ MonoBehaviour:
   _maxSteerAngle: 20
   _maxHandbrakeTorque: 5000
   _centreOfMass: {x: -0.5770745, y: 0.9597991, z: 0.047702}
-  _downforce: 200
-  _slipLimit: 0.3
-  _reverseMult: 0.4
-  _maxSpeedFOV: 200
+  _downforce: 300
+  _slipLimit: 0.1
+  _reverseMult: 0.6
+  _maxSpeedFOV: 100
   _fov: {x: 40, y: 40}
   _debugTorque: 0
 --- !u!1 &4706482443221124477
@@ -530,7 +530,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5221005259813653527}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.7815194, y: -0.3376053, z: -0.5514118}
+  m_LocalPosition: {x: 0.7815194, y: -0.3376054, z: -0.5514118}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -870,7 +870,7 @@ MonoBehaviour:
   <Velocity>k__BackingField: 100
   _reloadDelay: 1.5
   _emitSmokeCount: 3
-  _firePower: 120000
+  _firePower: 20000
   _muzzleEffect: {fileID: 5383201824395011643}
   _smokeEffect: {fileID: 5383634722956413296}
   _hitEffect: {fileID: 198656289721292014, guid: 318d92bfb9c51a24489f25da35f234a0, type: 3}
@@ -1290,11 +1290,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2372346853739203711, guid: a488e0e8a0c461d4f87a809a32f7bc80, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.002
+      value: -0.001999855
       objectReference: {fileID: 0}
     - target: {fileID: 2372346853739203711, guid: a488e0e8a0c461d4f87a809a32f7bc80, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.9230005
+      value: 0.93099993
       objectReference: {fileID: 0}
     - target: {fileID: 2372346853739203711, guid: a488e0e8a0c461d4f87a809a32f7bc80, type: 3}
       propertyPath: m_LocalRotation.w
