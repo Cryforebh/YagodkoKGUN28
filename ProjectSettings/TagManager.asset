@@ -15,10 +15,10 @@ TagManager:
   - Fire
   - Object
   - Cubes
-  - 
-  - 
-  - 
-  - 
+  - Obstacles
+  - Projectiles
+  - Players
+  - Ground
   - 
   - 
   - 

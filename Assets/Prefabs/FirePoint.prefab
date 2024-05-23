@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3886521981774543549}
   - component: {fileID: 6503651093447146495}
   - component: {fileID: 2444107340294993367}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: FirePoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
