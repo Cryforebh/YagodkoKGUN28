@@ -876,7 +876,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5221005260472835295}
-  m_LocalRotation: {x: 0.088678434, y: 0.000000028757732, z: -0.0000000025602773, w: 0.9960603}
+  m_LocalRotation: {x: 0.08867845, y: 0.000000017843663, z: -0.000000001588607, w: 0.9960603}
   m_LocalPosition: {x: -0.0000014901161, y: 1.5963621, z: -6.837997}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1157,7 +1157,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5467249289264266553}
-  m_LocalRotation: {x: 0.08867844, y: -0.000000016791441, z: 0.0000000014949282, w: 0.9960603}
+  m_LocalRotation: {x: 0.08867845, y: 0.000000017843663, z: -0.000000001588607, w: 0.9960603}
   m_LocalPosition: {x: -0.57707596, y: 3.3397994, z: -5.983532}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2238,6 +2238,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 198234346748616026, guid: 0f5d80b13ed22d14b91a12eb2cfa86e6, type: 3}
       propertyPath: UVModule.flipV
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 198515452120210940, guid: 0f5d80b13ed22d14b91a12eb2cfa86e6, type: 3}
+      propertyPath: playOnAwake
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 198515452120210940, guid: 0f5d80b13ed22d14b91a12eb2cfa86e6, type: 3}

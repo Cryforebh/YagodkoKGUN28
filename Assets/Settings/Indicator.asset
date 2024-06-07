@@ -14,20 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Settings>k__BackingField:
   - Mult: 1
-    Text: Cool
+    Text: "\u0425\u043E\u0440\u043E\u0448\u043E"
     Clip: {fileID: 0}
   - Mult: 2
-    Text: Nice
-    Clip: {fileID: 0}
+    Text: "\u0425\u043E\u0440\u043E\u0448\u043E"
+    Clip: {fileID: 7400000, guid: 6cfffdb91cb5e084cbe3bc6c47f2a847, type: 2}
   - Mult: 3
-    Text: Good Job
-    Clip: {fileID: 0}
+    Text: "\u041E\u0442\u043B\u0438\u0447\u043D\u043E"
+    Clip: {fileID: 7400000, guid: 2047d4d6ac73cc8479f20b383480d855, type: 2}
   - Mult: 4
-    Text: Well Dan
-    Clip: {fileID: 0}
+    Text: "\u0412\u043F\u0435\u0447\u0430\u0442\u043B\u044F\u044E\u0449\u0435"
+    Clip: {fileID: 7400000, guid: 972a8064f35e7b34c89ea82202f6c763, type: 2}
   - Mult: 5
-    Text: Ohh!
-    Clip: {fileID: 0}
+    Text: "\u041D\u0415\u0412\u0415\u0420\u041E\u042F\u0422\u041D\u041E"
+    Clip: {fileID: 7400000, guid: e2b9252528b50ef4e909d3ef950135ba, type: 2}
   - Mult: 6
-    Text: Yeee!!!
-    Clip: {fileID: 0}
+    Text: "\u0411\u041E\u0416\u0415\u0421\u0422\u0412\u0415\u041D\u041D\u041E"
+    Clip: {fileID: 7400000, guid: 003c909d4a3e6e94d80b931c4e8db2a9, type: 2}
