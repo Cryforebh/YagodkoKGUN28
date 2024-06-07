@@ -120,7 +120,18 @@
                 {
                     "name": "",
                     "id": "34c94cd1-9cde-44dc-b43c-1cc0bc72ebc8",
-                    "path": "<Keyboard>/e",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Fire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ec453c32-00de-449f-bca3-5f5f0a0316ca",
+                    "path": "<Keyboard>/r",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
